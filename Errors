@@ -1,0 +1,13 @@
+These are the errors I have been getting:
+  core.mjs:7473 ERROR DOMException: Failed to execute 'setAttribute' on 'Element': '[(ngModel)' is not a valid attribute name.
+    at EmulatedEncapsulationDomRenderer2.setAttribute (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-NKRQVUSQ.js?v=86362e1d:7558:10)
+    at setUpAttributes (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:3677:18)
+    at setupStaticAttributes (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:9078:5)
+    at ɵɵelementStart (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:17210:3)
+    at Module.ɵɵelement (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:17263:3)
+    at LoginComponent_Template (http://localhost:4200/main.js:52:9)
+    at executeTemplate (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:9267:5)
+    at renderView (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:10052:7)
+    at renderComponent (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:10035:3)
+    at renderChildComponents (http://localhost:4200/@fs/C:/Users/Asus/Projects/ang-application/.angular/cache/17.2.3/vite/deps/chunk-QT62IOSF.js?v=86362e1d:10081:5)
+﻿
